@@ -2,3 +2,4 @@ target
 /website/*
 /docs/skeleton
 .env
+/.idea
